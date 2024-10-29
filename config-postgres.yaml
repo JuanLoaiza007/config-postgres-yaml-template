@@ -1,0 +1,17 @@
+# OJO: En la vida real, este archivo no debería ser incluido en el control de versiones.
+
+source:
+  dialect: postgresql
+  host: localhost
+  port: 5432
+  username: # llenar
+  password: # llenar
+  database: # llenar
+
+warehouse:
+  dialect: postgresql
+  host: localhost
+  port: 5432
+  database: # llenar
+  username: # llenar
+  password: # llenar
